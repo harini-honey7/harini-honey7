@@ -130,7 +130,7 @@ const saiHarini = {
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=raect,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss" />
 </p>
 
 ```
