@@ -27,7 +27,6 @@
 </p>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=harini-honey7&label=Profile%20Views&color=7c3aed&style=flat-square" />
 
 </div>
 
